@@ -1,0 +1,12 @@
+7e5600c2d1900d023b6ca25474c64abebcb97617 测试git status. diff,add/commit
+f97103d9c9ab856b30b3222da217d12aca10b00d Update Hello1.txt
+ef22295f5d110dbcc2ffc93b8185b169dced12d0 2020.11.16 Test Git CMD
+e0cc08bc6068c406599822ce0bfadc1c01c87df5 Modify Test.txt
+0e2ec41e5566475556efa8b0aaf0332f8e658dff delete ASUS.TXt
+89891099ad7a9f0aa738d28d7bcf46f5902ed2f1 delete GoodLuck.txt
+8c0a1deb6b0634e6b272e59f3bddca90763a6bd5 Add GoodLuck.txt
+90f215d4f4242f4b695cd0fb444742b6075a7f2b modify git.txt
+787a36c19b88859067e39f15acc117b3966a2bd1 Add a txt file
+7c285bdbfc5f9f44076c0e3884469a42bfac3270 Update Text.txt
+df68af98780cb45c67fe03626055ce3cd7c44c7e Gavin-Test
+17a416a064d2f44c6a2a8ec6aa949739e6653266 初始化项目版本
